@@ -1,7 +1,7 @@
 # Data-science-bootcamp
 My Data portfolio For Data Analytics Role
 
-## what did I lraen from data science bootcamp.
+## What did I lraen from data science bootcamp.
 
 I lraened Data science skills. Bootcamp has 10 sprint.
 
